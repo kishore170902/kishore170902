@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kishore170902
+- 👋 Hi, I’m Kishore Gopi
 - 👀 I’m interested in Problem Solving using Hardware and Software tools
 - 🌱 I’m currently learning  java  and exploring the worlds of AI and ML
 - 💞️ I’m looking to collaborate  on Arduino and Python projects. C++ in the future
